@@ -1,0 +1,11 @@
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\obj\Debug\netcoreapp2.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\obj\Debug\netcoreapp2.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\obj\Debug\netcoreapp2.0\SignalRChat.AssemblyInfo.cs
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\obj\Debug\netcoreapp2.0\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\bin\Debug\netcoreapp2.0\SignalRChat.deps.json
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\bin\Debug\netcoreapp2.0\SignalRChat.runtimeconfig.json
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\bin\Debug\netcoreapp2.0\SignalRChat.runtimeconfig.dev.json
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\bin\Debug\netcoreapp2.0\SignalRChat.dll
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\bin\Debug\netcoreapp2.0\SignalRChat.pdb
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\obj\Debug\netcoreapp2.0\SignalRChat.dll
+C:\Users\abesp\Source\Repos\chathub\SignalRChat\obj\Debug\netcoreapp2.0\SignalRChat.pdb

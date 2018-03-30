@@ -1,12 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
+using Microsoft.AspNetCore.SignalR;
 using System.Linq;
 using System.Threading.Tasks;
-using SignalRChat.Hub;
 
-namespace SignalRChat
+
+namespace SignalRChat.Hubs
 {
-    public class Chatub : Hub
+    public class ChatHub : Hub
     {
         public Task Sendmessage(string user, string message)
         {
