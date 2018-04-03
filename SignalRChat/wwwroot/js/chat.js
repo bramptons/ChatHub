@@ -1,7 +1,5 @@
 ﻿const connection = new signalR.HubConnection('/chathub');
 
-
-
 connection.on('ReceiveMessage', (timestamp, user, message) => {
 
     const encodedUser = user;
@@ -15,8 +13,6 @@ connection.on('ReceiveMessage', (timestamp, user, message) => {
     document.getElementById('messages').appendChild(listItem);
 
 });
-
-
 
 document.getElementById('send').addEventListener('click', event => {
 
@@ -32,8 +28,6 @@ document.getElementById('send').addEventListener('click', event => {
 
 });
 
-
-
 function showErr(msg) {
 
     const listItem = document.createElement('li');
@@ -45,7 +39,5 @@ function showErr(msg) {
     document.getElementById('messages').appendChild(listItem);
 
 }
-
-
 
 connection.start().catch(err => showErr(err));

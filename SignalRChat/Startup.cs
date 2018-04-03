@@ -21,7 +21,7 @@ namespace SignalRChat
             services.AddMvc();
             services.AddSignalR();
             //add this line to make the app into a progressive web app
-            //services.AddProgressiveWebApp();
+            services.AddProgressiveWebApp();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

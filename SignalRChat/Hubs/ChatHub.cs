@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SignalRChat.Hubs
 {
-    public class ChatHub : Hub
+    public class            ChatHub : Hub
     {
         public Task Sendmessage(string user, string message)
         {
